@@ -1,0 +1,6 @@
+repository = "https://github.com/chargeduck/xechat-openidea"
+
+[[versions]]
+version = "0.3.0"
+package = "https://github.com/chargeduck/xechat-openidea/releases/download/v0.3.0/xechat.openidea-0.3.0.oiplugin"
+sha256 = "33941fbfd0ab92016e2040d92560f24cda366ef81b57528d25ca595948205e3a"
