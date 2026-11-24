@@ -9,3 +9,8 @@ sha256 = "33941fbfd0ab92016e2040d92560f24cda366ef81b57528d25ca595948205e3a"
 version = "0.3.1"
 package = "https://github.com/chargeduck/xechat-openidea/releases/download/v0.3.1/xechat.openidea-0.3.1.oiplugin"
 sha256 = "fb2df9554014efb1c5e169c2aee639646d34be57a95cf6e888c8401b78c6bfcd"
+
+[[versions]]
+version = "0.3.3"
+package = "https://github.com/chargeduck/xechat-openidea/releases/download/v0.3.3/xechat.openidea-0.3.3.oiplugin"
+sha256 = "a6b25f517d918fdc4083e22c962681158c73c931d28b1838d4459dbb009158e6"
