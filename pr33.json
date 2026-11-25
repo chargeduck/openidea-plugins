@@ -1,0 +1,1 @@
+{"title": "xechat.openidea: add 0.3.3", "head": "chargeduck:add-xechat-0.3.3", "base": "main", "body": "Adds 0.3.3：同步 xechat-web 的四条体验改进（管理员昵称 ☆、↑ 历史只保留 # 命令、聊天区右键菜单、发送图片 REACT/UPLOAD）。包 sha256 a6b25f51…，签名与 0.3.1 同一 publisher key。"}
