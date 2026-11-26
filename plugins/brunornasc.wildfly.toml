@@ -1,0 +1,6 @@
+repository = "https://github.com/brunornasc/openidea-wildfly-plugin"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/brunornasc/openidea-wildfly-plugin/releases/download/v0.1.0/brunornasc.wildfly-0.1.0.oiplugin"
+sha256 = "7c1f0b3619dfa01c4a31a6d95cdbac755960dadf132c69ccce252b1a1206b594"
