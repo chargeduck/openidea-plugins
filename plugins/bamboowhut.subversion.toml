@@ -1,0 +1,6 @@
+repository = "https://github.com/bamboowhut/openidea-subversion"
+
+[[versions]]
+version = "0.1.15"
+package = "https://github.com/bamboowhut/openidea-subversion/releases/download/v0.1.15/bamboowhut.subversion-0.1.15.oiplugin"
+sha256 = "8398fc20de4a35629ee472f688a1f13fbe00bef62a1d061c8c3e565d454a013b"
